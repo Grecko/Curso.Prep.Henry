@@ -1,0 +1,15 @@
+for
+Es una forma de programar tareas repetitivas es decir que se tienen que hacer muchas veces
+Por ejemplo:
+Guardar los juguetes, tienes que recojer cada juguete y llevarlo al contenedor de los juguetes
+Descargar el mandado del carro de compras, es sacar cada producto y depositarlo en la banda trasportadora para la caja donde nos van a cobrar
+
+&&
+& - También conocido como And (y)
+Es un signo de inclusion, es decir agrega algo a un grupo, este color es tuyo y este también
+
+||
+Se puede decir que es un muro, que representa una exclusion, quieres este borraror blanco o este otro borrador de migajon
+
+!
+Este signo se le conoce como necación, donde los sies se convierten en noes y los sies en noes "si negado" = no, "no negado" = si
